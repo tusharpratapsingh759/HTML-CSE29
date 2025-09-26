@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>web assignment-2</title>
+</head>
+<body> 
+    <!-- Q1 Design a basic HMTL page using any two semantic and non-semantic elements. -->
+     <!-- non semantic -->
+     <i> My name is Tushar Pratap Singh</i><br>
+     <b> I am from Sonbhadra,Uttar Pradesh</b>
+     <!-- semantic -->
+      <article>
+        <h1>This is article</h1>
+        <p>This is article paragraph</p>
+      </article>
+      <aside>
+        <h2>This is aside</h2>
+        <p>This is aside paragraph</p>  
+      </aside>
+
+
+      
+     <!--Q2 Design a HTML page creating hyperlink for text, images and all media elements -->
+     <h1> ans 2 of assignment</h1>
+     <p><a href="https://www.abes.ac.in/"> abes</a></p>
+     <img src="download.png" alt="ABES Logo" width="100" height="100"><br>
+     <audio src="reliable-safe-327618 (1).mp3" type= audio/mp3 controls></audio>
+      
+
+</body>
+</html>
